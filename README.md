@@ -10,4 +10,3 @@ Currently exploring:
 - Retrieval + Reranking architectures
 - Agentic workflows
 
-Python | PyTorch | HuggingFace | MLflow | Databricks | AWS
