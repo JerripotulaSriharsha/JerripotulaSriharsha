@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Sri Harsha Jerripotula
+# I am Sri
 
 Machine Learning Engineer working on Large Language Models, RAG systems, and scalable ML pipelines.
 
