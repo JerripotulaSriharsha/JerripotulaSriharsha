@@ -1,12 +1,5 @@
-## Hi there 👋
+Sri Jerripotula
 
-# I am Sri
+Machine Learning Engineer building applied ML systems, including LLM and computer vision solutions.
 
-Machine Learning Engineer working on Large Language Models, RAG systems, and scalable ML pipelines.
-
-Currently exploring:
-- Direct Preference Optimization (DPO)
-- Model Distillation
-- Retrieval + Reranking architectures
-- Agentic workflows
-
+Interested in quantitative research and algorithmic trading.
